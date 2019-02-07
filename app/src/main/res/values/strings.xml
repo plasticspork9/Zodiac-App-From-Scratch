@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZodiacAppFromScratch</string>
+    <string name="horoscope_button_text">View your daily horoscope!</string>
+</resources>
